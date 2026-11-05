@@ -15,7 +15,7 @@ This is a bounded symbolic-composition release, not a sample pack, recording, or
 | adh03 Low Horizon | F# pack-local pitch collection | 32 bars · 60 BPM · 4/4 |
 | adh04 Quiet Island | C# pack-local pitch collection | 32 bars · 60 BPM · 4/4 |
 
-The release contains 28 MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
+The release contains 28 study MIDI files: six Format 0 role exports and one Format 1 combined arrangement per study. It also contains canonical event CSVs, structural/harmonic/drum-map records, patch recipes, checksums, an original SVG cover, a simple-synthesis preview, draft editorial copy and one ZIP.
 
 ## Start here
 
