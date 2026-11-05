@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/ambient-drone-harmony-simple-synth-preview.mp3",
+  "preview_sha256": "787910e3842d727510ea8b4407040484591afd4e8b97180fc7a57d0d3249c6b8",
+  "source_midi_path": "midi/adh01-basalt-still/adh01-basalt-still-combined.mid",
+  "source_midi_sha256": "4bfd60a3bfbb9226f77e14bf9d073a3eef83e4ae4cfb582ded7be80923a77c03",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "adh01",
+    "start_seconds": 0,
+    "end_seconds": 128.0
+  },
+  "measurement": {
+    "sample_peak": 0.148029,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

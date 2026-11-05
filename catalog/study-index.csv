@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+adh01,Basalt Still,pack-local equal-tempered pitch collection,C,60,4/4,480,32,61440,midi/adh01-basalt-still/adh01-basalt-still-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+adh02,White Haze,pack-local equal-tempered pitch collection,D#,60,4/4,480,32,61440,midi/adh02-white-haze/adh02-white-haze-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+adh03,Low Horizon,pack-local equal-tempered pitch collection,F#,60,4/4,480,32,61440,midi/adh03-low-horizon/adh03-low-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+adh04,Quiet Island,pack-local equal-tempered pitch collection,C#,60,4/4,480,32,61440,midi/adh04-quiet-island/adh04-quiet-island-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
