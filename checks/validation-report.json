@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:39:17.069345+00:00",
+  "run_time_utc": "2026-11-05T21:38:10.551154+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/adh01-basalt-still/adh01-basalt-still-combined.mid",
-      "bytes": 2829,
-      "sha256": "4bfd60a3bfbb9226f77e14bf9d073a3eef83e4ae4cfb582ded7be80923a77c03",
+      "bytes": 2657,
+      "sha256": "6d17fff2934df0d6195730f9b7074255709281b5077a2bb80d8a72ef75bbc8bc",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/adh01-basalt-still/principal_motif.mid",
-      "bytes": 472,
-      "sha256": "661a9cc21db4ffc1c3501b3fb7874def44ff0c58c2b7f29babe962dff26e5c09",
+      "bytes": 300,
+      "sha256": "4d85860f10bd23328172327713c9ebc67938b2ff2e8277fe887d09619ec0271c",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/adh02-white-haze/adh02-white-haze-combined.mid",
-      "bytes": 2828,
-      "sha256": "13fa6d7ec40dc5c3b0436b3d06ccef7ba24460df9d5566886c743e0db868b870",
+      "bytes": 2658,
+      "sha256": "3020c7d42af33515ddb4169f3c8a8a3d64ff834122bb0f7c52bf197745811006",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/adh02-white-haze/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "0e437c51b348f8bab20529805d299d01f9a7caf8a3c10eb0cc6e0a3aa144c801",
+      "bytes": 301,
+      "sha256": "e7004c499c26f91606040530f28b3b63fba18294b817c1cf824731aaf6f6eb9e",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/adh03-low-horizon/adh03-low-horizon-combined.mid",
-      "bytes": 2810,
-      "sha256": "760c855cce938a65f5d4ae57224ae9c9ae45747c5be8bb2a8b18033a82a76378",
+      "bytes": 2658,
+      "sha256": "0e3e230e326f998ff1fc7af61208e8bfbeca23f32198985ff2d73c6ca30b9b1d",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/adh03-low-horizon/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "f6bb027ec238004bf89133aecd5b75731d82505a23bf61f23b21441a9cc4c24c",
+      "bytes": 301,
+      "sha256": "76e76b4025840dce4fdca6c36e7dbe0f80ef25d02660b808dd3d3312b4cd2aa3",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/adh04-quiet-island/adh04-quiet-island-combined.mid",
-      "bytes": 2810,
-      "sha256": "8230f6fd1ab19ab93d00ef12f15a4c70413fab1bd48a5ccccce74dca2517f55a",
+      "bytes": 2657,
+      "sha256": "b14abed103e6ac84802849ee8533d47ed254c6f96744ce2ec5c1026d80be6aca",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/adh04-quiet-island/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "389238d56523dbc11e66f5be5d44be6e27ae12a2a69b670f00ac8e42b5b14ec2",
+      "bytes": 300,
+      "sha256": "23bc7f33e77ed6349aded0d476885d4380217a3b735500e58aa3d0023b3aabc7",
       "errors": []
     },
     {

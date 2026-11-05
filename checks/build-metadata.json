@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "ambient-drone-harmony",
-  "source_builder_sha256": "b0785271b299983a35267fbfbe04095d2368677d5f6a07b5486e84a879822787",
+  "source_builder_sha256": "4f729fe500b9f3e1a9e45296d82dff9b1e67259830fb7ec7011b9ec5a01d3e0f",
   "commands": [
     "python tools/build_release.py --pack ambient-drone-harmony",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-05T19:24:07.344563+00:00",
+  "run_time_utc": "2026-11-05T21:37:11.390592+00:00",
   "python": "3.14.0"
 }

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/ambient-drone-harmony-simple-synth-preview.mp3",
-  "preview_sha256": "787910e3842d727510ea8b4407040484591afd4e8b97180fc7a57d0d3249c6b8",
+  "preview_sha256": "4ba6bd0ad13bafb7ee483c29911b337c2c0e20c728e289871d434b4e077f5886",
   "source_midi_path": "midi/adh01-basalt-still/adh01-basalt-still-combined.mid",
-  "source_midi_sha256": "4bfd60a3bfbb9226f77e14bf9d073a3eef83e4ae4cfb582ded7be80923a77c03",
+  "source_midi_sha256": "6d17fff2934df0d6195730f9b7074255709281b5077a2bb80d8a72ef75bbc8bc",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
