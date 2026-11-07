@@ -61,3 +61,7 @@ To regenerate media after rebuilding, preserve the source image and run `python 
 ## Melody revision
 
 The current product page and archive include revised principal melodies. The original `v1.0.0` tag preserves the earlier release. See [REVISION.md](REVISION.md) for the verification and review limits.
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), included in the MIDI download.

@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/ambient-drone-harmony-midi.zip",
-      "bytes": 22807,
-      "sha256": "f76571e0e28701ded2d91c60b034fc48ffa864c8f0432738cff4d5e016a98c6f"
+      "bytes": 24145,
+      "sha256": "f0c9d3d0e080c11d472868fe0c0277a0f4289639eadc3a7b7957eedb8a4afbf9"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10569,
-      "sha256": "c11e5f986a2e0cd5660dc80d2fa1d2f55b203d2de7231a988a294f8e81e5e346"
+      "bytes": 10759,
+      "sha256": "b5a7aa94979aac76f5a5f24698957e5c7425a129132a9f30bc7f849256f61b42"
     },
     {
       "path": "midi/adh01-basalt-still/adh01-basalt-still-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "92076e51448801bfbf22bead2a24575acef05088935127e8c5e475a86caa6fc3"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/ambient-drone-harmony-simple-synth-preview.mp3",
       "bytes": 3085836,
       "sha256": "4ba6bd0ad13bafb7ee483c29911b337c2c0e20c728e289871d434b4e077f5886"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4115,
-      "sha256": "16ca1828ed89794fae0c8be73ad639b4a37e6efdadba4cad8853ffa883f9c1f1"
+      "bytes": 4230,
+      "sha256": "17fcc9586bfc1e072ace74353635cb071512e174327f46de09a49f9126820d86"
     },
     {
       "path": "REVISION.md",
